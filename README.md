@@ -1,5 +1,10 @@
-<!-- Create netflix -->
+<!-- Create netflix steps-->
 npx create-react-app netflix-gpt
+added tailwind
+created header along with basic browser routers
+login form
+signup form
+build form in react using FORMIK lib
 
 
 https://v3.tailwindcss.com/docs/installation from here go to framework guides
