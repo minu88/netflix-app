@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "netflixgpt-b613f",
+    "NetflixApp": "netflix-gpt-new-9580d"
+  },
+  "targets": {},
+  "etags": {}
+}
